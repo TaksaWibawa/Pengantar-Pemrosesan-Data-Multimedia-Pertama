@@ -69,6 +69,6 @@ def main():
     else:
         st.write("Please upload a file")
 
-if __name__:
+if __name__ == "__main__":
     main()
 
